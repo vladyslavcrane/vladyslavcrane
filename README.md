@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-👨‍💻 Обо мне :
-Я Python Backend Developer (двигаюсь в направлении Full-Stack) разработчик из Украины. Умею в бэк, умею в фронт (мне так кажется) 😄
-🔭 Активно ищу работу на позиции Backend || Fullstack разразботчик
-🌱 Работаю с двумя популярными фреймворками: Django, FastAPI, React, aiogram3
-⚡ В свободное время изучаю новые технологии, читаю документацию.
-🛠️ Языки и технологии: 
-                :red_circle: Back: Python, Django, Django Rest Framework, Celery, Redis, Gitlab CI/CD, Linux, Docker, Docker Compose, pytest, unittest, asyncio, aiogram 3
-                Docker, git, MongoDb, PostgreSQL, REST, GraphQL
-                НTML5, CSS, SCSS, Javascript, React, Electron, Redux/Redux toolkit, React Router,  Webpack, Vite, Postman, 
+### 👨‍💻 About me:
 
-Пишите мне в телеграм @vladyslavcrane или на почту vladyslavcrane@gmail.com
+I'm a Python Backend Developer (moving towards Full-Stack) from Ukraine. I'm skilled in backend and frontend (at least I think so 😄) 
+
+🔭 Actively looking for a job as a Backend || Fullstack developer
+
+🌱 Main frameworks I work with: Django, FastAPI, React, aiogram3
+
+⚡ In my free time, I study new technologies and read documentation.
+
+### 🛠️ Languages and technologies
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔴 Backend: Python, Django, Django Rest Framework, FastAPI, Flask, Gitlab CI/CD, asyncio, aiogram 3, openpyxl, openai, unittest and pytest 
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟡 Frontend: НTML5, CSS, SCSS, Javascript, React, Electron, Redux/Redux toolkit, React Router, Webpack, Vite, Postman
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟢 Other: Docker, Docker Compose, git, Celery, Redis, MongoDB, PostgreSQL, REST, GraphQL, Google APIs, App Store Connect API
+
+Contact me on Telegram @vladyslavcrane or by email vladyslavcrane@gmail.com
 <!--
 **vladyslavcrane/vladyslavcrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
