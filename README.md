@@ -2,7 +2,8 @@
 
 ### 👨‍💻 About me:
 
-I'm a Python Backend Developer (moving towards Full-Stack) from Ukraine. I'm skilled in backend and frontend (at least I think so 😄).
+I'm a Python dev with experience customizing Open edX-based solutions for organizations in education, government, and higher learning.
+My background includes working with a large Open edX codebase, developing backend services with Django, and building React-based frontends for smooth user experiences across web and mobile platforms.
 
 🔭 Actively looking for a job as a Backend || Fullstack developer
 
