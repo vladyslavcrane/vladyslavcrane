@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About me:
 
-I'm a Python Backend Developer (moving towards Full-Stack) from Ukraine. I'm skilled in backend and frontend (at least I think so 😄) 
+I'm a Python Backend Developer (moving towards Full-Stack) from Ukraine. I'm skilled in backend and frontend (at least I think so 😄).
 
 🔭 Actively looking for a job as a Backend || Fullstack developer
 
@@ -11,12 +11,11 @@ I'm a Python Backend Developer (moving towards Full-Stack) from Ukraine. I'm ski
 ⚡ In my free time, I study new technologies and read documentation.
 
 ### 🛠️ Languages and technologies
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔴 Backend: Python, Django, Django Rest Framework, FastAPI, Flask, Gitlab CI/CD, asyncio, aiogram 3, openpyxl, openai, unittest and pytest 
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟡 Frontend: НTML5, CSS, SCSS, Javascript, React, Electron, Redux/Redux toolkit, React Router, Webpack, Vite, Postman
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟢 Other: Docker, Docker Compose, git, Celery, Redis, MongoDB, PostgreSQL, REST, GraphQL, Google APIs, App Store Connect API
+<ul style="list-style-type: none;">
+  <li> <b>Backend</b>: Python, Django, Django Rest Framework, FastAPI, Flask, Gitlab CI/CD, asyncio, aiogram 3, openpyxl, openai, unittest, pytest</li>
+  <li> <b>Frontend</b>: НTML5, CSS, SCSS, Javascript, React, Electron, Redux/Redux toolkit, React Router, Webpack, Vite, Postman</li>
+  <li> <b>Other</b>: Docker, Docker Compose, git, Celery, Redis, MongoDB, PostgreSQL, REST, GraphQL, Google APIs, App Store Connect API</li>
+</ul>
 
 Contact me on Telegram @vladyslavcrane or by email vladyslavcrane@gmail.com
 <!--
