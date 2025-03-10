@@ -18,7 +18,7 @@ My background includes working with a large Open edX codebase, developing backen
   <li> <b>Other</b>: Docker, Docker Compose, git, Celery, Redis, MongoDB, PostgreSQL, REST, GraphQL, Google APIs, App Store Connect API</li>
 </ul>
 
-Contact me on Telegram @vladyslavcrane or by email vladyslavcrane@gmail.com
+My contacts: [Telegram](https://t.me/vladyslavcrane), vladyslavcrane@gmail.com
 
 
 ![Codewars](https://github.r2v.ch/codewars?user=vladyslavcrane&stroke=%23d0d5db)
