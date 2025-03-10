@@ -2,8 +2,8 @@
 
 ### 👨‍💻 About me:
 
-I'm a Python dev with experience customizing Open edX-based solutions for organizations in education, government, and higher learning.
-My background includes working with a large Open edX codebase, developing backend services with Django, and building React-based frontends for smooth user experiences across web and mobile platforms.
+I'm a Python dev with experience of customizing [Open edX](https://github.com/openedx) solutions for organizations in education, government, and higher learning.
+My background includes working with a large Open edX codebase, developing backend services with Django, and building React-based frontends across web and mobile platforms.
 
 🔭 Actively looking for a job as a Backend || Fullstack developer
 
@@ -19,17 +19,6 @@ My background includes working with a large Open edX codebase, developing backen
 </ul>
 
 Contact me on Telegram @vladyslavcrane or by email vladyslavcrane@gmail.com
-<!--
-**vladyslavcrane/vladyslavcrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Codewars](https://github.r2v.ch/codewars?user=vladyslavcrane&stroke=%23d0d5db)
